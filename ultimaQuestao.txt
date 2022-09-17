@@ -1,0 +1,12 @@
+/**
+ * In the context of object orientation, write the diferences between classes, objects, instances and interfaces:
+ *
+ * Escreva a diferença entre interfaces, instancias, objetos e classes no contexto de orientação a objeto:
+ *
+ */
+
+No contexto de POO, criamos uma classe para representar uma abstração de um objeto como, por exemplo, um carro.
+No entanto, sabemos que há vários modelos de carro, varias marcas, preços, tamanhos, modelos... Uma classe agrupa
+todas as possíveis representações desse carro. Quando queremos criar um carro específicio a partir de uma dada clásse, estamos
+criando um objeto a partir da instancia dessa classe. Por fim, podemos entender interface como um contrato entre a classe e o mundp
+exterior, ou seja, ao instanciar determinada classe a interface obriga que seja seguida algumas regras preestabelecidas. 
